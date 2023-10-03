@@ -7,10 +7,11 @@ Funval
 celides/Plataforma_Universitaria_Online: Nombre del Proyecto: Plataforma Universitaria Online (github.com)
  README
 
- Proyecto Final Universidad
+Proyecto Final Universidad
 ingresa con:
 
 inicia en "login.php"
+
 Administrador:
 admi@admi
 Contraseña - 333
