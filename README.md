@@ -10,17 +10,25 @@ celides/Plataforma_Universitaria_Online: Nombre del Proyecto: Plataforma Univers
  Proyecto Final Universidad
 ingresa con:
 
-login.php
-
+inicia en "login.php"
+Administrador:
 admi@admi
-333
+Contraseña - 333
+
+Maestro: 
+maestro7@maestro,
+Contraseña - 333
+
+Estudiante:
+estudiante1@estudiante1 
+Contraseña - 333
 
 Harold Carazas
 
 Juan Carlos Pérez Martínez
 Funval
 celides/Plataforma_Universitaria_Online: Nombre del Proyecto: Plataforma Universitaria Online (github.com)
- README
+README
 
 Proyecto Final Universidad
 git init
